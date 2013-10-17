@@ -1,0 +1,14 @@
+Dies ist ein Text
+vor/*CT-PRO>>*/hinter
+asdk sd
+dasdasd
+asdasdasd
+/*<<CT-PRO*/
+Normal
+und wieder nochmal
+vor/*CT-PRO>>*/hinter
+asdk sd
+dasdasd
+asdasdasd
+/*<<CT-PRO-*/
+END
